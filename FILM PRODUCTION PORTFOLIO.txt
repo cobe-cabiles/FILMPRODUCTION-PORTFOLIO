@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> FILM PRODUCTION PORTFOLIO </title>
+<style>
+
+
+* {
+  box-sizing: border-box;
+
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+html {
+  font-family: "tahoma";
+  color : #4e3569;
+  display:inline;
+}
+a:link {
+      text-decoration: none;
+}
+
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
+
+.header {
+  color:#4e3569;
+  padding: 10px;
+
+}
+h1{  color : #4e3569;
+
+}
+ 
+.menu ul {
+  text-decoration: none;
+  color:white;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.menu li {
+  text-decoration: none;
+  color:white;
+  list-style-type: none;
+  padding: 0px;
+  margin-bottom: 10px;
+  background-color:  #ffffff;
+  color: #ffffff;
+  text-align:center;
+  font-family: tahoma;
+  letter-spacing: 0.5em;
+  border-radius: 15px;
+ 
+}
+.menusidebar li {
+  color: white;
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 7px;
+  background-color:  #1d1d3b;
+  color: #ffffff;
+  text-align:center
+  font-family: tahoma;
+  letter-spacing: 0.5em;
+  border-radius: 15px;
+  
+
+}
+
+.
+menu sidebarli {
+  text-decoration-line: none;
+  color:white;
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 7px;
+  background-color: #1d1d3b;
+  color: #ffffff;
+  text-align:center;
+  font-family: tahoma;
+  letter-spacing: 0.5em;
+  border-radius: 15px;
+}
+
+
+.menu li:hover {
+  background-color:#ab7da3;
+  color:pink;  
+  
+}
+
+.footer {
+  border: 10px solid white;
+  background-color:  #1d1d3b;
+  color: #ffffff;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+ 
+
+</style>
+</head>
+<body>
+<div id="menu" class="header">
+
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrYjrHQCkNGUkzpsYTRBHWDrRwfxsLvaBxcLg0HuvOe1XEQLKdbjBlsjteuOFbhO0IwM46c0QwzaHLveJT7hODvJaG2GxSx-kxwjWPVXjTabc8_ZNZNZLu3ZH6RoMMfiOcqxLauWm1HYqu2saCw68F5xp4H2rQBqQ2szAEtDZGo3N54XFLtkfPY3jBXSE/s1600/Untitled%20design%20(1).png" width="100%" height=250px>
+  
+<ul class="menusidebar" >
+    <div  class="col-13 col-s-3 menu" > <a href="#komiks1" ><li> KOMIKS POSTER DESIGN </li> </a> </div>
+    <div  class="col-13 col-s-3 menu" > <a href="#komiks2" ><li> KOMIKS COSTUME DESIGN </li> </a></div>
+    <div  class="col-13 col-s-3 menu" > <a href="#malasakit1" ><li> MALASAKIT POSTER DESIGN </li></a></div>
+    <div  class="col-13 col-s-3 menu" > <a href="#malasakit2" ><li>  MALASAKIT PRODUCTION DESIGN </li></a></div>
+     
+  </ul>
+  </div>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+</div>
+
+
+<title> FILM PRODUCTION PORTFOLIO </title>
+<style>
+.divstyle1 {
+  border: 5px outset #29485c;
+  background-color: #f7f7f7;    
+  text-align: center;
+  margin: 30px }
+
+.style1{ color:violet; font-size:30px; }
+.style2{ color:#1d1d3b; font-family:"impact"; font-size:30px; text-align: center; letter-spacing: 0.5em }
+.style3{ color:#585870; font-family:"tahoma"; font-size:15px; text-align: justify; margin: 30px }
+.style4{ color:#ab7da3; font-family:"Brush Script MT"; font-size:35px; text-align: justify; margin: 30px }
+.style5{ color:#1d1d3b; font-family:"impact"; font-size:20px; text-align: center; letter-spacing: 0.5em }
+.style6 { color:#585870; font-family:"tahoma"; font-size:20px; text-align: justify; margin: 30px }
+
+.responsive1 {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.responsive2 {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.responsive3 {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+</style>
+</head>
+<body background="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF2may-X0p7TPuwvb0a67dBGPwqQXSJqspjBdyak_jiKJw7ptcjeRe9Q3dqtcT0muBH76Cm6sYd69CbNeabeEYvHr2lmhdWdDRg-Fy9s8MMHNkPZwOSA-sNLgXQYekScJTA1Yhjtj3R7z-Oy5cIetkm0p5XNCL6XnU_Pv75i2Edl0MrMuXL3AmFcUNipU/s1440/WEBPAGEEEE%20(3).png" link="#DC9199" alink="#9992BB" vlink="#DC9199">
+	<br />
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+<div style="text-align: center">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLx8ZBKcUG1MFq-eDrTjB7F9jV1lcIjRH0o2BDnSM1bIsPhMyQy7UXq5Mf6UjySaf76yLhyphenhyphenvxhK0HKUbWfnZDKIisuMqkHCNelsq7akXLjhthhz8izqNF6q40A6SE86somTsSZYLBzbWsTx5-vgMi0_1mrkdNzlMveEJ-Xw44Lp_xqOSxOJanosvtUl4s/s1046/ARTIST%20INTRODUCTION.png">
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLx8ZBKcUG1MFq-eDrTjB7F9jV1lcIjRH0o2BDnSM1bIsPhMyQy7UXq5Mf6UjySaf76yLhyphenhyphenvxhK0HKUbWfnZDKIisuMqkHCNelsq7akXLjhthhz8izqNF6q40A6SE86somTsSZYLBzbWsTx5-vgMi0_1mrkdNzlMveEJ-Xw44Lp_xqOSxOJanosvtUl4s/s1046/ARTIST%20INTRODUCTION.png" align="center" style="width:470px;height:250px;"></a>
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+
+
+<hr>
+<h1 class=style2> THE BIRTH OF A SURREALIST  </h1>
+<p class=style6> Philippines based visual artist and graphic designer who is heavily inspired by the lowbrow pop-surrealism movement in which the oddities of things transpire. His creative works also have a sense of experimentalism and modern culture touches.</p>
+
+<p class=style6> Taking up the course of Multimedia Arts at the University of Perpetual Help (Molino). Cobe has gained more experience around creative traditional and digital art, photography, 2D and 3D animation, film making, and post production editing. </p>
+
+<p class=style4> I warmly welcome you to my creative portfolio...</p>
+
+<hr>
+
+<h1 class=style2> FILM PRODUCTION  </h1>
+ <p class=style6> Watching movies has honestly given me that sense of seeking for things that satisfy my artistic hunger for something interesting and worth the time of watching the said movie. Growing up as a kid, I developed an admiration for both live action and animated films as there are so many layers and aspects to appreciate with the film’s cinematography as well as the way the story made an impact on me. <p>
+
+	<p class=style6> Upon taking film production during my 2nd year under the course of Multimedia Arts, I was very much intrigued and in a state of fear as I was clueless of what goes behind the film making. My experience has honestly given me that realization as to how much effort goes behind every film. There are many things to consider from the early phase of brainstorming, production, and even post production of the filmmaking process. </p>
+
+	<p class=style6> Being able to work with such a diverse group with each member having their own forte to offer in the film production. I analyzed my capabilities and came forward to offer my artistic skills in making art hence why I have chosen to produce our short film poster and also made garments and outfits for the characters within our film. </p>
+
+	<p class=style6> As someone who happens to have an experience in costume making, I went on with delicate designing of the character’s costume and careful attention to detail that would translate the character in actuality and serve justice to their role in the story. With the assistance of team mates, the production of the costumes did get more time efficient. I recall having to make adjustments during the actual shoot and we would resort to using hot glue to attach clothes with each other. This was most definitely one of the experiences in film production that I hold dear. </p>
+
+	<p class=style6> When it comes to the poster design, it was important for me to think of a way to represent the whole film in such a creative way that still allows the viewers to think twice. I added elements that would feel familiar and important in the line of the story. Combining illustration and graphic design in such great moderation and being able to make it appear nicely was one main goal of mine. As I was inspired by the greatest of all time: Drew Struzan who makes elaborate poster designs for well known movies, I analyzed his style and composition in design making.
+ </p>
+    
+	<p class=style6> As I collide my skills in graphic design, color theory, layout, and many other learnings, the whole semester of the film production subject was honestly such a joyous ride of taking another form of art. Allowing more of my surrealist mind to see how I could use those learning in filming in my own personal projects really did get me inspired to pursue film production. </p>
+    
+    <p class=style4> I therefore present my creative works in the realm of film production… </p>
+
+<hr>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+
+<div style="text-align: center">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWN6HjygGOMqCJb0ujLbQ7akxuVTPWFMLWZuFXhKqnM7Z7LJTCVj-yXrbJRQmEIXl2S3oE6VhTyEMnGvZA5XpHWMWKUY6UTzadX9QFvT9dZ9hUuQbTiJy2bw9qMN5wdRU6SyRi9l4GxCm1wCY0KWEQzutvjkvHN2outXokt9p9DAEnH5-qKa9Cre_xmDo/s1060/ARTIST%20GALLERY.png">
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWN6HjygGOMqCJb0ujLbQ7akxuVTPWFMLWZuFXhKqnM7Z7LJTCVj-yXrbJRQmEIXl2S3oE6VhTyEMnGvZA5XpHWMWKUY6UTzadX9QFvT9dZ9hUuQbTiJy2bw9qMN5wdRU6SyRi9l4GxCm1wCY0KWEQzutvjkvHN2outXokt9p9DAEnH5-qKa9Cre_xmDo/s1060/ARTIST%20GALLERY.png" align="center" style="width:470px;height:250px;"></a>
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+<div class=divstyle1 id="komiks1" >
+	<h2 class=style5>KOMIKS POSTER DESIGN</h2>
+    <p class=style3> With this being the first film output I have ever been involved in, I would say it is most definitely an experience that I would go back to to remind myself of what I can be capable of and of course for the moments I have shared with incredible people behind this production. </p>
+    
+    <p class=style3> This poster was actually the version that our production house went on as the first version that was done by another post production team did not meet our expectations. I took the initiative to design a poster as I have this sense of familiarity with the film we have produced. Taking consideration of the elements that would feel familiar and gives out hints about something relevant to the film. </p>
+    
+    <p class=style3> This poster was initially a watercolor and acrylic painting that I have made, digitalizing it to become an element highlighted within the poster. Took time with digital rendering to further give off this level of detail and visual effects that the production house is aiming for. </p>
+    
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+    <img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1fjXD629ONI-rqQ6VB7hNSZ6RchIGgFXt1h-5P-ZNHsu2YH8rEE7q0IamPA-WBTBtlFdntIWFOoucfGI0jmmXu4_7-jssGr9mz14wVOqKJgqiZR8uUfQRFTVz61bV_FOorofPDZpeeJeI-72KXH_JsS3sW0SqqBMv8kk7soKGAPFabav0DEdi6IUT-g/s6400/KOMIKS%20%E2%80%A2%20Short%20Film%20Poster.png" alt="Komiks Poster Design" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+</div>
+
+<div class=divstyle1 id="komiks2" >
+	<h2 class=style5>KOMIKS COSTUME DESIGN</h2>
+    <p class=style3> I always have this fascination with the way a character dresses. It adds his level of depth to the character’s personality and the dramatics of it just gives me so much delight. With this character being an “entity”, we actually have thought of it as a spirit that captures an individual’s recent feal and turns into that. For this short story, it so happens that the “entity” takes the form of an ancient Chinese opera outfit. </p>
+    
+    <p class=style3> There are important things to consider when creating cultural outfits, and one of them is obviously having this sense of respect when referencing something that has a value for others. Upon researching, I did get to establish the delicate detailings of the garment and its relevance to the whole ensemble. Learning and understanding the culture involve in the outfit is something I find important when creating a piece that references an existing culture. </p>
+    
+    <p class=style3> For the most part of the process, I am glad as to how the outfit turned out. While there are some aspects skill-wise that I have to improve, the experience was important to the process of learning. Receiving support and help from my group members allowed this to go through. </p>
+      
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+	<img class=responsive1 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdSAEpsXsACkchA4m3DfP6XU5AUSfbDvqB-WA505Rd9FrCc3fxj4KqAvQ2yJSBGsAdW3Bwqc1aKplClbXShGdALwHSY_SRk4sT-TpI1UyGHhhHdTgZvlG-vHZNngWnLSq0K89qw3W6SsaVXu4PoY5XYGWPq87ZVxLGh-8LZHuPP-UUczwCMTJ0M1qYrJw/s5120/KOMIKS%20(2).png" alt="Komiks Costume Design" class="responsive">
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+</div>
+
+
+<div class=divstyle1 id="malasakit1">
+	<h2 class=style5>MALASAKIT POSTER DESIGN</h2>
+    <p class=style3> This poster was made under the subject of Art Appreciation, which to my surprise actually has film production under its subject. This subject felt like an extension of what I am currently learning on my course. Most often than not, it made me realize how there’s much to learn in the world of art. And that art is such an important tool that affects our daily lives and inner perceptions. </p>
+    
+    <p class=style3> Upon making this poster for a short film that my production house made, I was glad to get the chance to further experiment on my approach in making posters. This poster in particular has this perspective to it and layers of elements. I was hoping that when I get to work with posters in the future, I will make the elements 100% made by me. It just feels more light to get the ideas translated into an output upon making personalized elements. </p>
+    
+    <p class=style3> The poster features the main character riding the crocodile as this editorial type of art that is seen on newspapers that conveys a political message. Having to symbolize topics through clever characters and illustrations was the target of mine in this poster design. It could potentially add confusion to the viewers from initially looking at it, but it will all eventually make sense once the film is watched. </p>
+    
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+    <img class=responsive2 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWC5yZCvJ-_YBKy_6-ZdJ-sLq4hHHeWNhDr6-8KVFd2i_gQOU8SL7qo9lvmgC3-xpqpniBvMF290rhdBh5sAUUS5I4nWTlEh_R-EgTp9esLAmK6t-KDvme_cgPXVYaogmqlBbPhnRskLVNeIxklowzQArCLnCVab6JCmF0OrukE4jdScoGkksyhjjYNHA/s6250/1.png" alt="Malasakit Poster Design" class="responsive">
+    
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+</div>
+
+
+<div class=divstyle1 id="malasakit2">
+	<h2 class=style5>MALASAKIT PRODUCTION DESIGN</h2>
+    <p class=style3> Apart from costume designing and poster designing, I seem to also have an interest in production set designing. It may not be my main forte, but I just feel like there is this feeling of excitement when making set designs for a scene. Color theory is something I am eagerly hoping to improve in my artistic skills and through set designing, I get to apply this and actually build an interesting set design that would make the scene hav this emotion and vibe radiating. </p>
+    
+    <p class=style3> From the movies that I adore that are made by such incredible set of people that I look up to, I become inspired by their thorough and keen designing process that takes into consideration the importance of the object in the scene, the time period of the object;s existence, and even to the tiniest bit of detail like how the object interact with the characters within a frame. </p>
+    
+    <p class=style3> In this short film that I also set designed, I rely mostly on what is available on the shooting place that we have. Having to see the effective use of natural light and if there is a need for artificial lighting within the scene. This task may have been quite tedious, but having to see how it turned out in the actual film feels rewarding already. </p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+	<img class=responsive3 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0Nj7Xgh0EmkicgDCcXtN4HVURGiKBcvAFEsCMniANpXkBJF1r1Xap56nMBmf4dFtnHyX006YkGf31b2tNkHCfSjTju2zvB4Ul-RWdhZmS2n3X02ZbZfmXrKXSxveNOXLkEyn5bjKF7EmoXz07dST4cPnYg-YWzOtplscQEGH7YHFvFxFfN37P8uBKVs/s5120/MALASAKIT%20(1).png" alt="Malasakit Production Design" class="responsive">
+
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+</div>
+
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN
+style='font-family:"Montserrat SemiBold";color:#F3F3F3'>&nbsp;</span></p>
+
+<div id="menu" class="header">
+
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuxlCWKSwZOzw-c9R7HPsgX_OvK0cfgFCU64YLQLUEAercYEHKXl-SXRw86Ddrh_PVsmg1nZEBptm7DnmS7B4aFsfH65bxgj-ZkOLzpOc9pXsWwOije33wSyDWHAP4QcJhJooQtSmRqPOGbsgmF8Cniyh606tvjklybrV0SDYN8JXch-vEpY_CRCywAKs/s1600/Untitled%20design%20(2).png" width="100%" height=250px>
+
+</body>
+</html>
